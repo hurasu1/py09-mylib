@@ -1,0 +1,1 @@
+from .mylib_func import *

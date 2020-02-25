@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: mylib
+Version: 0.0.2
+Summary: Awesome library
+Home-page: https://github.com/whatever/whatever
+Author: yourname
+Author-email: your@address.com
+License: MIT
+Description: UNKNOWN
+Keywords: sample setuptools development
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
