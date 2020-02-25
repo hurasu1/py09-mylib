@@ -14,7 +14,7 @@ pip install -e <this directory path>
 ```
 or
 ```shell script
-pip install git+<url>
+pip install -e git+<git url>#egg=<library name>
 ```
 
 ```python
